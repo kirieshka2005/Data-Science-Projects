@@ -15,7 +15,7 @@
 ## 👋 About Me
 
 Hi there! I'm **Kirill**, a data science enthusiast passionate about turning raw data into actionable insights. This repository contains my personal projects focused on **data analysis**, **machine learning**, and **visualization**.
-I'm studying NUST MISiS university at business informatics and i'll graduate it in 2027.
+I'm studying Business Informatics at NUST MISiS University and expect to graduate in 2027.
 
 🎯 **Focus Areas:**
 - Exploratory Data Analysis (EDA)
@@ -37,10 +37,12 @@ I'm studying NUST MISiS university at business informatics and i'll graduate it 
 
 ---
 
-## ✅✅✅ Links on large data sets files
+## 📂 Datasets
 
-- https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud?resource=download&select=card_transdata.csv
-- https://drive.google.com/uc?export=download&id=1ijDCI1iqn4_M5wuLplUTG5i2kJQ8wP2v
+Links to large dataset files used in the projects:
+
+- [Credit Card Fraud Dataset (Kaggle)](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud?resource=download&select=card_transdata.csv)
+- [Additional Dataset (Google Drive)](https://drive.google.com/uc?export=download&id=1ijDCI1iqn4_M5wuLplUTG5i2kJQ8wP2v)
 
 ---
 
@@ -70,8 +72,8 @@ I'm studying NUST MISiS university at business informatics and i'll graduate it 
 ### 💸 Payment Transactions Analysis
 [![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Payment_transactions_research.ipynb)
 
-**Techniques:** Linear regression
+**Techniques:** Linear Regression
 
 ---
 
-> 💡 **Tip:** Click **View Notebook** to see code
+> 💡 **Tip:** Click **View Notebook** to see the code and results.
