@@ -101,10 +101,10 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 
 ---
 
-⭐ *If you find these projects helpful, consider starring the repository!* ⭐
+⭐ If you find these projects helpful, consider starring the repository! ⭐
 
 **Thanks for visiting! 🚀**
 
-*Last updated: February 2026*
+**Last updated: February 2026**
 
 </div>
