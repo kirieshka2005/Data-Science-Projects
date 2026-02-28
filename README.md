@@ -1,79 +1,111 @@
-# 📊 Data Science Projects Portfolio
+# 📊 DATA SCIENCE PROJECTS PORTFOLIO
+
+> 🔍 Exploring data · 📈 Finding insights · 🤖 Building models
+
+---
+
+## 👤 ABOUT ME
+
+**Hi, I'm Kirill!**
+
+I'm a Data Science enthusiast passionate about turning raw data into actionable insights. This repository contains my personal projects focused on **data analysis**, **machine learning**, and **visualization**.
+
+- 🎓 **Education:** Business Informatics, NUST MISiS University
+- 📅 **Graduation:** 2027
+- 💻 **Location:** Russia
+
+### 🎯 Focus Areas
+• Exploratory Data Analysis (EDA)  
+• Predictive Modeling  
+• Data Visualization  
+• Statistical Analysis  
+
+---
+
+## 🛠️ TECH STACK
+
+**Language:** Python 3.10  
+**Data Analysis:** Pandas, NumPy  
+**Visualization:** Matplotlib, Seaborn, Plotly  
+**Machine Learning:** Scikit-learn, XGBoost  
+**Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
+
+---
+
+## 📂 DATASETS
+
+| Project | Data Source |
+|---------|-------------|
+| Credit Card Fraud | [Kaggle Dataset](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) |
+| Transaction Data | [Google Drive Link](https://drive.google.com/uc?export=download&id=1ijDCI1iqn4_M5wuLplUTG5i2kJQ8wP2v) |
+
+---
+
+## 📁 PROJECTS
+
+### 1️⃣ 🏨 Hotel Bookings Analysis
+**Objective:** Predict booking cancellations and analyze seasonal patterns.
+
+**Methods:** EDA • Feature Engineering • Logistic Regression • Random Forest
+
+🔗 [📓 View Notebook](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Hotel_bookings_research.ipynb)
+
+---
+
+### 2️⃣ 💳 Credit Card Fraud Detection
+**Objective:** Detect fraudulent transactions with high precision and recall.
+
+**Methods:** SMOTE • Class Weights • XGBoost • ROC-AUC Optimization
+
+🔗 [📓 View Notebook](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Card_trans_data_research.ipynb)
+
+---
+
+### 3️⃣ 🏙️ Boston Housing Price Prediction
+**Objective:** Predict housing prices based on neighborhood and property features.
+
+**Methods:** Linear Regression • Random Forest • Feature Importance • R² Evaluation
+
+🔗 [📓 View Notebook](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Boston_housing_research.ipynb)
+
+---
+
+### 4️⃣ 💸 Payment Transactions Analysis
+**Objective:** Analyze payment patterns, trends, and customer behavior.
+
+**Methods:** Linear Regression • Descriptive Statistics • Data Cleaning
+
+🔗 [📓 View Notebook](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Payment_transactions_research.ipynb)
+
+---
+
+## 🏆 CODING PROFILES
+
+| Platform | Profile |
+|----------|---------|
+| **LeetCode** | [👤 kireal_tsyp](https://leetcode.com/u/kireal_tsyp/) |
+| **GitHub** | [🐙 kirieshka2005](https://github.com/kirieshka2005) |
+
+---
+
+## 📬 CONTACT
+
+💬 Feel free to reach out for collaboration or questions:
+
+• **Email:** [your.email@example.com]  
+• **Telegram:** @your_username  
+• **LinkedIn:** [Your Profile Link]  
+
+---
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
 
-*Exploring data, finding insights, building models*
+⭐ *If you find these projects helpful, consider starring the repository!* ⭐
+
+**Thanks for visiting! 🚀**
+
+*Last updated: March 2025*
 
 </div>
-
----
-
-## 👋 About Me
-
-Hi there! I'm **Kirill**, a data science enthusiast passionate about turning raw data into actionable insights. This repository contains my personal projects focused on **data analysis**, **machine learning**, and **visualization**.
-I'm studying Business Informatics at NUST MISiS University and expect to graduate in 2027.
-
-🎯 **Focus Areas:**
-- Exploratory Data Analysis (EDA)
-- Predictive Modeling
-- Data Visualization
-- Statistical Analysis
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Tools & Libraries |
-|----------|-------------------|
-| **Language** | Python 3.10 |
-| **Analysis** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn, Plotly |
-| **Machine Learning** | Scikit-learn, XGBoost |
-| **Environment** | Jupyter Notebook, Google Colab |
-
----
-
-## 📂 Datasets
-
-Links to large dataset files used in the projects:
-
-- [Credit Card Fraud Dataset (Kaggle)](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud?resource=download&select=card_transdata.csv)
-- [Additional Dataset (Google Drive)](https://drive.google.com/uc?export=download&id=1ijDCI1iqn4_M5wuLplUTG5i2kJQ8wP2v)
-
----
-
-## 📁 Projects
-
-### 🏨 Hotel Bookings Analysis
-[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Hotel_bookings_research.ipynb)
-
-**Techniques:** EDA, Feature Engineering, Classification (Logistic Regression, Random Forest)
-
----
-
-### 💳 Credit Card Fraud Detection
-[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Card_trans_data_research.ipynb)
-
-**Techniques:** SMOTE, Class Weights, XGBoost, ROC-AUC optimization
-
----
-
-### 🏙️ Boston Housing Price Prediction
-[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Boston_housing_research.ipynb)
-
-**Techniques:** Linear Regression, Random Forest, Feature Importance, R² evaluation
-
----
-
-### 💸 Payment Transactions Analysis
-[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Payment_transactions_research.ipynb)
-
-**Techniques:** Linear Regression
-
----
-
-> 💡 **Tip:** Click **View Notebook** to see the code and results.
