@@ -32,7 +32,7 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 
 ---
 
-## 📂 DATASETS
+## 📓 DATASETS 🌐
 
 | Project | Data Source |
 |---------|-------------|
@@ -88,7 +88,7 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 
 ---
 
-## 📬 CONTACT
+## 📬 CONTACT ☎️
 
 💬 Feel free to reach out for collaboration or questions:
 
@@ -103,8 +103,8 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 
 ⭐ If you find these projects helpful, consider starring the repository! ⭐
 
-**Thanks for visiting! 🚀**
+- **Thanks for visiting! 🚀**
 
-**Last updated: February 2026**
+- **Last updated: February 2026**
 
 </div>
