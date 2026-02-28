@@ -92,8 +92,8 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 
 💬 Feel free to reach out for collaboration or questions:
 
-• **Email:** m2304543@edu.misis.ru
-• **Telegram:** @Vavaloh
+- **Email:** m2304543@edu.misis.ru
+- **Telegram:** @Vavaloh
 
 ---
 
