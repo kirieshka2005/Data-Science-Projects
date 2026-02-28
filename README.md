@@ -92,9 +92,8 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 
 💬 Feel free to reach out for collaboration or questions:
 
-• **Email:** [your.email@example.com]  
-• **Telegram:** @your_username  
-• **LinkedIn:** [Your Profile Link]  
+• **Email:** m2304543@edu.misis.ru
+• **Telegram:** @Vavaloh
 
 ---
 
