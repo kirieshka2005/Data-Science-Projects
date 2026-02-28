@@ -37,3 +37,9 @@ Hi there! I'm **Kirill**, a data science enthusiast passionate about turning raw
 
 ---
 
+## ✅✅✅ Links on large data sets files
+
+- https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud?resource=download&select=card_transdata.csv
+- https://drive.google.com/uc?export=download&id=1ijDCI1iqn4_M5wuLplUTG5i2kJQ8wP2v
+
+---
