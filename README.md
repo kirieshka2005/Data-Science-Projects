@@ -10,6 +10,7 @@
 *Exploring data, finding insights, building models*
 
 </div>
+
 ---
 
 ## 👋 About Me
