@@ -18,10 +18,6 @@
 Hi there! I'm **Kirill**, a data science enthusiast passionate about turning raw data into actionable insights. This repository contains my personal projects focused on **data analysis**, **machine learning**, and **visualization**.
 I'm studying NUST MISiS university at business informatics and i'll graduate it in 2027.
 
-<div align="center">
-  <img src="images/My pic.jpg" alt="Kirill's photo" width="150" style="border-radius: 100%;">
-</div>
-
 🎯 **Focus Areas:**
 - Exploratory Data Analysis (EDA)
 - Predictive Modeling
