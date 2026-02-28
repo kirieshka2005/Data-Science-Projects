@@ -15,10 +15,10 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 - 💻 **Location:** Russia
 
 ### 🎯 Focus Areas
-• Exploratory Data Analysis (EDA)  
-• Predictive Modeling  
-• Data Visualization  
-• Statistical Analysis  
+- Exploratory Data Analysis (EDA)  
+- Predictive Modeling  
+- Data Visualization  
+- Statistical Analysis  
 
 ---
 
