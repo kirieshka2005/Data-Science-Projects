@@ -19,7 +19,7 @@ Hi there! I'm **Kirill**, a data science enthusiast passionate about turning raw
 I'm studying NUST MISiS university at business informatics and i'll graduate it in 2027.
 
 <div align="center">
-  <img src="images/My pic.jpg" alt="Kirill's photo" width="150" style="border-radius: 50%;">
+  <img src="images/My pic.jpg" alt="Kirill's photo" width="150" style="border-radius: 100%;">
 </div>
 
 🎯 **Focus Areas:**
