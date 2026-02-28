@@ -106,6 +106,6 @@ I'm a Data Science enthusiast passionate about turning raw data into actionable 
 
 **Thanks for visiting! 🚀**
 
-*Last updated: March 2025*
+*Last updated: February 2026*
 
 </div>
