@@ -44,3 +44,35 @@ I'm studying NUST MISiS university at business informatics and i'll graduate it 
 - https://drive.google.com/uc?export=download&id=1ijDCI1iqn4_M5wuLplUTG5i2kJQ8wP2v
 
 ---
+
+## 📁 Projects
+
+### 🏨 Hotel Bookings Analysis
+[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Hotel_bookings_research.ipynb)
+
+**Techniques:** EDA, Feature Engineering, Classification (Logistic Regression, Random Forest)
+
+---
+
+### 💳 Credit Card Fraud Detection
+[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Card_trans_data_research.ipynb)
+
+**Techniques:** SMOTE, Class Weights, XGBoost, ROC-AUC optimization
+
+---
+
+### 🏙️ Boston Housing Price Prediction
+[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Boston_housing_research.ipynb)
+
+**Techniques:** Linear Regression, Random Forest, Feature Importance, R² evaluation
+
+---
+
+### 💸 Payment Transactions Analysis
+[![View Notebook](https://img.shields.io/badge/📓-View_Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/kirieshka2005/Data-Science-Projects/blob/main/Payment_transactions_research.ipynb)
+
+**Techniques:** Linear regression
+
+---
+
+> 💡 **Tip:** Click **View Notebook** to see code
